@@ -1,0 +1,13 @@
+{
+  "name": "xsolla-garage-qa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Svetlana Kuchumova",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^4.11.0"
+  },
+  "scripts": {
+    "cy": "cypress open"
+  }
+}
